@@ -1,0 +1,41 @@
+90{
+
+color:dodgerblue;
+background-color=:D17814;
+font-size:35px 
+}
+legend{
+    font-size:20px;
+    font-family: cursive;
+    color: 40E018;
+}
+
+body{
+background: #FF416C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+fieldset{
+ background: #FF416C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color:blue;
+    border-color:black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: fantasy;
+    color:black;
+    font-family: cursive;
+     align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+     display: flex;
+    width: 80%%;
+    height: 80%
+         align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0,40%);;
+}
